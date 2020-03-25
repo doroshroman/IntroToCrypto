@@ -9,21 +9,21 @@
 * hiding
 * puzzle-friendly
 
-![Collision-free](./collision_free.png)
+![Collision-free](./img/collision_free.png)
 
 It's possibly to find collisions because there are lots of input and much less outputs (Different inputs map to one output)
 
-![Collision](./collision.png)
+![Collision](./img/collision.png)
 
 ### Real world example
-![Collision](./application.png)
+![Collision](./img/application.png)
 
-![Collision](./hiding_problem.png)
+![Collision](./img/hiding_problem.png)
 <p><i> Problem here - easy to find x, because you   need to find hashes of two string and compare to hash of our function.</i></p>
 
 So
-![Collision](./hiding.png)
+![Collision](./img/hiding.png)
 
-![Collision](./api.png)
+![Collision](./img/api.png)
 
-![Collision](./third.png)
+![Collision](./img/third.png)

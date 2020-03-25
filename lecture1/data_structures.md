@@ -1,15 +1,15 @@
 ## Hash Pointers and Data Structures
 
-![Hash Pointer](./pointer.png)
+![Hash Pointer](./img/pointer.png)
 
 ### Block chain
 
-![Hash Pointer](./block_chain.png)
+![Hash Pointer](./img/block_chain.png)
 
 ### Binary Tree
 
-![Hash Pointer](./binary_tree.png)
+![Hash Pointer](./img/binary_tree.png)
 
-![Hash Pointer](./member.png)
+![Hash Pointer](./img/member.png)
 
-![Merkle Tree](./advantage.png)
+![Merkle Tree](./img/advantage.png)
